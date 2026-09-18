@@ -14,6 +14,12 @@
   📍 Chilakaluripet, India &nbsp;|&nbsp; 🎓 B.Tech Final Year Student &nbsp;|&nbsp; ☁️ Aspiring CloudOps Engineer
 </p>
 
+<!-- Snake Game Repo View -->
+
+<div align="center">
+  <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
+
 <p align="center">
   <a href="https://www.linkedin.com/in/geetha-supriya-kakaraparthi-321154306" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
